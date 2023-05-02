@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: solar-system
-        image: siddharth67/solar-system:v6
+        image: prashanth2paramaah/solar-system:50-502daa61b637bc78eae647e083cdfda7b99c8280
         imagePullPolicy: Always
         ports:
         - containerPort: 80
